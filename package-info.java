@@ -1,1 +1,1 @@
-package com.tnsif.wrapperclassdemo;
+package com.tnsif.multithreading;
